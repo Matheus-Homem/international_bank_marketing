@@ -28,11 +28,11 @@ Every quarter of the year, the leaders meet to decide the company's goals for th
 The company has a dataset on the usage behavior of approximately 9,000 active credit card users during the last 6 months and the file is at the customer level and has 18 behavioral variables.
 
 ### Project Goals <a name="goal"></a>
-1. Criar uma segmentação de clientes baseado em critérios claros de seleção.
-2. Tornar a segmentação de clientes acessível para o time de operações.
-3. Ensinar o time de operações sobre como usar a sua solução.
-4. Transferir o conhecimento para os Cientistas de Dados da International Bank.
-5. Recomendar 2-3 alavancas de negócio para cada segmento de clientes.
+1. Create customer segmentation based on clear selection criteria.
+2. Make customer segmentation accessible to the operations team.
+3. Teach the operations team how to use your solution.
+4. Transfer knowledge to International Bank Data Scientists.
+5. Recommend 2-3 business levers for each customer segment.
 
 ### Conclusion <a name="conclusion"></a>
 The project is not finished yet.
